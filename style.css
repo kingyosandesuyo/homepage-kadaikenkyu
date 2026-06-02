@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(0, 0, 0, 0.705);
+}
+
+/* 修正箇所：h1のカッコをここで一回閉じます */
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+/* 中央揃えの命令 */
+.center-text {
+    text-align: center;
+}
+
+/* 下線を引きルルール（独立して書きます） */
+.text-underline {
+    text-decoration: underline;
+}
